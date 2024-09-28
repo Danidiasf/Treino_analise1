@@ -20,13 +20,14 @@ O renomado Banco Europeu enfrenta a necessidade urgente de compreender os fatore
 ### Benefícios Esperados
 - Insights sobre o Comportamento dos Clientes
 - Estratégias para Redução do Churn
-- Identificação de Produtos e Perfis Impactantes
-  
+- Identificação de Perfis Impactantes
+- Aumento da Satisfação e Fidelização dos Clientes
+- Identificação de Oportunidades de Crescimento e Expansão
 
 ## Metodologia
 Para realizar a Análise Exploratória de Dados, utilizamos uma base de dados fornecida pelo Banco Europeu.
 
-Os dados passaram por um pré-processamento que incluiu a remoção de duplicatas, o tratamento de valores nulos e a normalização das variáveis necessárias. Após essa fase, uma base de dados limpa foi criada para análise. Em seguida, gráficos e tabelas comparativas foram elaborados para facilitar a visualização dos padrões entre os produtos mais vendidos e as oportunidades bem-sucedidas.
+Os dados passaram por um pré-processamento que incluiu a remoção de duplicatas, o tratamento de valores nulos e a normalização das variáveis necessárias. Após essa fase, uma base de dados limpa foi criada para análise. Em seguida, gráficos e tabelas comparativas foram elaborados para facilitar a visualização dos padrões entre as motivações dos churns e as oportunidades não exploradas pelo banco.
 
 ### Notebooks Desenvolvidos
 ETL: Extração, transformação e carregamento dos dados.
