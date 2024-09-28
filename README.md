@@ -21,3 +21,12 @@ O renomado Banco Europeu enfrenta a necessidade urgente de compreender os fatore
 - Insights sobre o Comportamento dos Clientes
 - Estratégias para Redução do Churn
 - Identificação de Produtos e Perfis Impactantes
+
+## Metodologia
+Para realizar a Análise Exploratória de Dados, utilizamos uma base de dados fornecida pelo Banco Europeu.
+
+Os dados passaram por um pré-processamento que incluiu a remoção de duplicatas, o tratamento de valores nulos e a normalização das variáveis necessárias. Após essa fase, uma base de dados limpa foi criada para análise. Em seguida, gráficos e tabelas comparativas foram elaborados para facilitar a visualização dos padrões entre os produtos mais vendidos e as oportunidades bem-sucedidas.
+
+### Notebooks Desenvolvidos
+ETL: Extração, transformação e carregamento dos dados.
+EDA: Análise Exploratória de Dados para geração de insights.
