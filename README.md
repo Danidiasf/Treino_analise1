@@ -30,6 +30,6 @@ Para realizar a Análise Exploratória de Dados, utilizamos uma base de dados fo
 Os dados passaram por um pré-processamento que incluiu a remoção de duplicatas, o tratamento de valores nulos e a normalização das variáveis necessárias. Após essa fase, uma base de dados limpa foi criada para análise. Em seguida, gráficos e tabelas comparativas foram elaborados para facilitar a visualização dos padrões entre as motivações dos churns e as oportunidades não exploradas pelo banco.
 
 ### Notebooks Desenvolvidos
-[ETL][]: Extração, transformação e carregamento dos dados.
+[ETL](https://github.com/Danidiasf/Treino_analise1/blob/main/PrimeiraParte_churn.ipynb): Extração, transformação e carregamento dos dados.
 
 [EDA](https://github.com/Danidiasf/Treino_analise1/blob/main/SegundaParte_churn.ipynb): Análise Exploratória de Dados para geração de insights.
