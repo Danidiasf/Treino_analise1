@@ -30,4 +30,5 @@ Os dados passaram por um pré-processamento que incluiu a remoção de duplicata
 
 ### Notebooks Desenvolvidos
 ETL: Extração, transformação e carregamento dos dados.
+
 EDA: Análise Exploratória de Dados para geração de insights.
