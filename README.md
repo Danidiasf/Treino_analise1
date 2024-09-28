@@ -27,7 +27,7 @@ O renomado Banco Europeu enfrenta a necessidade urgente de compreender os fatore
 ## Metodologia
 Para realizar a Análise Exploratória de Dados, utilizamos uma base de dados fornecida pelo Banco Europeu.
 
-Os dados passaram por um pré-processamento que incluiu a remoção de duplicatas, o tratamento de valores nulos e a normalização das variáveis necessárias. Após essa fase, uma base de dados limpa foi criada para análise. Em seguida, gráficos e tabelas comparativas foram elaborados para facilitar a visualização dos padrões entre as motivações dos churns e as oportunidades não exploradas pelo banco.
+Os dados passaram por um pré-processamento que incluiu a remoção de duplicatas, o tratamento de valores nulos e a normalização das variáveis necessárias. Após essa fase, uma [base de dados limpa](https://github.com/Danidiasf/Treino_analise1/blob/main/BASE_FINAL.csv) foi criada para análise. Em seguida, gráficos e tabelas comparativas foram elaborados para facilitar a visualização dos padrões entre as motivações dos churns e as oportunidades não exploradas pelo banco.
 
 ### Notebooks Desenvolvidos
 [ETL](https://github.com/Danidiasf/Treino_analise1/blob/main/PrimeiraParte_churn.ipynb): Extração, transformação e carregamento dos dados.
