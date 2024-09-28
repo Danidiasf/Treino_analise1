@@ -40,3 +40,7 @@ Foram gerados insights importantes:
 - Identificação de grupos distintos com base em características que mais impactam a taxa de churn, permitindo uma segmentação mais precisa e eficiente.
 - Criação de recomendações específicas para cada segmento, direcionando campanhas de marketing e estratégias de retenção mais alinhadas às necessidades e expectativas dos clientes.
 - Sugestões para aprimoramento de ofertas e atendimento, focando em reduzir atritos e aumentar a satisfação dos clientes mais propensos ao churn.
+
+## Conclusão
+
+Este [relatório]() apresenta os resultados da análise exploratória, validados para oferecer recomendações práticas ao Banco Europeu. Com base nesses insights, espera-se que a instituição ajuste suas estratégias de retenção de clientes, otimizando o engajamento e a fidelização para alcançar resultados mais sólidos e sustentáveis
