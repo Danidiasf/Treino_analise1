@@ -11,3 +11,13 @@ O renomado Banco Europeu enfrenta a necessidade urgente de compreender os fatore
 - Há variações significativas em relação à localização geográfica ou perfil demográfico dos clientes?
 - Como se diferencia o comportamento dos clientes que decidem sair do banco em comparação àqueles que permanecem?
 - Quais características devem ser priorizadas ao planejar estratégias de retenção e que ações específicas podem ser implementadas pelo Banco Europeu?
+- 
+### Objetivos do Projeto
+- Realizar uma Análise Exploratória de Dados (EDA) para identificar padrões e tendências.
+- Fornecer Insights para Melhoria de Retenção.
+- Propor ações para otimização do portfólio de produtos e segmentação dos clientes.
+
+### Benefícios Esperados
+- Insights sobre o Comportamento dos Clientes
+- Estratégias para Redução do Churn
+- Identificação de Produtos e Perfis Impactantes
