@@ -43,4 +43,4 @@ Foram gerados insights importantes:
 
 ## Conclusão
 
-Este [relatório]() apresenta os resultados da análise exploratória, validados para oferecer recomendações práticas ao Banco Europeu. Com base nesses insights, espera-se que a instituição ajuste suas estratégias de retenção de clientes, otimizando o engajamento e a fidelização para alcançar resultados mais sólidos e sustentáveis
+Este [relatório](https://github.com/Danidiasf/Treino_analise1/blob/main/ralatorio.ipynb) apresenta os resultados da análise exploratória, validados para oferecer recomendações práticas ao Banco Europeu. Com base nesses insights, espera-se que a instituição ajuste suas estratégias de retenção de clientes, otimizando o engajamento e a fidelização para alcançar resultados mais sólidos e sustentáveis
