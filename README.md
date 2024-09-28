@@ -33,3 +33,10 @@ Os dados passaram por um pré-processamento que incluiu a remoção de duplicata
 [ETL](https://github.com/Danidiasf/Treino_analise1/blob/main/PrimeiraParte_churn.ipynb): Extração, transformação e carregamento dos dados.
 
 [EDA](https://github.com/Danidiasf/Treino_analise1/blob/main/SegundaParte_churn.ipynb): Análise Exploratória de Dados para geração de insights.
+
+## Resultados
+
+Foram gerados insights importantes
+- Identificação de grupos distintos com base em características que mais impactam a taxa de churn, permitindo uma segmentação mais precisa e eficiente.
+- Criação de recomendações específicas para cada segmento, direcionando campanhas de marketing e estratégias de retenção mais alinhadas às necessidades e expectativas dos clientes.
+- Sugestões para aprimoramento de ofertas e atendimento, focando em reduzir atritos e aumentar a satisfação dos clientes mais propensos ao churn.
