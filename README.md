@@ -32,4 +32,4 @@ Os dados passaram por um pré-processamento que incluiu a remoção de duplicata
 ### Notebooks Desenvolvidos
 [ETL][]: Extração, transformação e carregamento dos dados.
 
-[EDA][https://github.com/Danidiasf/Treino_analise1/blob/main/SegundaParte_churn.ipynb]: Análise Exploratória de Dados para geração de insights.
+[EDA](https://github.com/Danidiasf/Treino_analise1/blob/main/SegundaParte_churn.ipynb): Análise Exploratória de Dados para geração de insights.
